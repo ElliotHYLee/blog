@@ -1,7 +1,8 @@
 menu:
     Blog: /
+    About: /about/
     Archive: /archives/
-    GitHub: https://github.com/keon
+    GitHub: https://github.com/rlcode
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -9,13 +10,13 @@ logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus: keonblog
+disqus: rlcode
 duoshuo:
 cloudTie:
 
 # Analytics
 # google-analytics:
-ga: UA-65209371-1
+ga: UA-65209371-5
 
 # Copyright Infomation
-startyear: 2016
+startyear: 2017
